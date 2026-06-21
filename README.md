@@ -3,8 +3,8 @@
 A modern, responsive, and robust movie ticket booking web application. This project allows users to browse movies, select theaters and schedules, pick specific seats using an interactive matrix, and simulate a payment and booking flow.
 
 ## 🚀 Live Demo & Video
-*   **Live App:** `[Insert Vercel/Netlify URL here]`
-*   **Video Demo:** `[Insert Loom/YouTube URL here]`
+*   **Live App:** `creative-upaay-smoky.vercel.app`
+*   **Video Demo:** `https://www.loom.com/share/5d410c4806ed41d19d57db0dde708696`
 
 ---
 

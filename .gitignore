@@ -1,1 +1,8 @@
 node_modules
+.env
+.env.*
+!.env.example
+.mongodb/
+.DS_Store
+dist/
+build/
